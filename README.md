@@ -1,7 +1,7 @@
 # BigDataInterview
 
 
-这个Repo主要用来分享Java面试题，目前已经涵盖 Hadoop、HBase、CBoard & Kylin、Cassandra、Flink、Flume、Hive、Impala、Oozie、Presto、Spark、Sqoop、Storm等内容，后续还会不断更新。
+这个Repo主要用来分享大数据面试题，目前已经涵盖 Hadoop、HBase、CBoard & Kylin、Cassandra、Flink、Flume、Hive、Impala、Oozie、Presto、Spark、Sqoop、Storm等内容，后续还会不断更新。
 
 如果对于有所帮助，可以给个star。有纰漏的地方，欢迎给我们提PR。
 
