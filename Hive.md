@@ -1,3 +1,5 @@
+## Hive
+
 * [1.Hive与传统数据库的区别](#1hive与传统数据库的区别)
 * [2.Hive内部表和外部表的区别](#2hive内部表和外部表的区别)
 * [3.Hive中order by，sort by，distribute by和cluster by的区别](#3hive中order-bysort-bydistribute-by和cluster-by的区别)
@@ -21,7 +23,6 @@
 * [21.hive的执行流程](#21hive的执行流程)
 * [参考资料](#参考资料)
 
-## Hive
 
 #### 1.Hive与传统数据库的区别
 
